@@ -4,17 +4,17 @@ Welcome to the **LDATS2350 Data Mining Practical Sessions Repository**. This rep
 
 ---
 
-## **Contents**
+## Contents
 
-### **TP1: Introduction to Data Mining and Data Handling**
+### TP0: First Steps in Python
 
-### **TP2: **
+### TP1: Data Mining and Data Handling
 
-### **TP3: **
+### TP2: Data Exploration
 
-### **TP4: **
+### TP3: Missing Data
 
-### **TP5: **
+### TP4: Regression
 
 ---
 
